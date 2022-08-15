@@ -1,10 +1,5 @@
-
-.headerPrincipal-titulo{
-    display: inline-block;
-    vertical-align: middle;
-}
-
-.headerPrincipal-nav{
-    display: inline-block;
-    vertical-align: middle;
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
