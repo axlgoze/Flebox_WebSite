@@ -40,3 +40,12 @@
     flex-wrap: wrap; /* quiebra la columna segun la altura definida (height) y rellena el espacio sobrante*/
     
 }
+.contenidoPrincipal-cursos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenidoPrincipal-cursos-link{
+    width: 23%;
+    display: flex;
+    
+}
