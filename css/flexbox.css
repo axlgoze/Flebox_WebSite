@@ -49,3 +49,20 @@
     display: flex;
     
 }
+
+/* breakoput */
+
+/* mobile */
+
+@media (min-width: 360px) {
+    .headerPrincipal .container{
+        flex-direction: column;
+        align-items: initial;
+        text-align: center;
+    }
+
+    .headerPrincipal-nav{
+        flex-direction: column;
+    }
+
+}
