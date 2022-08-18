@@ -18,7 +18,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-right: 5%;
+    margin-right: 90px;
 }
 
 .rodapePrincipal-contatoForm{
@@ -47,9 +47,27 @@
 .contenidoPrincipal-cursos-link{
     width: 23%;
     display: flex;
-    
 }
 
+.videoSobre{
+    display: flex;
+}
+
+.videoSobre-sobre{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.videoSobre-video{
+    flex-grow: 2;
+}
+
+
+.videoSobre-sobre-list{
+    /* justify-content: space-between; */
+    flex-grow: 2;
+}
 /* breakoput */
 
 /* mobile */
@@ -105,4 +123,7 @@
         text-align: center;
     }
 
+    .headerPrincipal-nav-link-app{
+        order: -1;
+    }
 }
