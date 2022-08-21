@@ -49,7 +49,7 @@
     display: flex;
 }
 
-.videoSobre{
+.videoSobre .container{
     display: flex;
 }
 
@@ -60,7 +60,8 @@
 }
 
 .videoSobre-video{
-    flex-grow: 2;
+    flex-grow: 1.5;
+    flex-shrink: 2; /* reduce su tamaño mientras la pantalla se hace pequeña dos veces menor */ 
 }
 
 
@@ -125,5 +126,9 @@
 
     .headerPrincipal-nav-link-app{
         order: -1;
+    }
+
+    .videoSobre .container{
+        flex-direction: column;
     }
 }
