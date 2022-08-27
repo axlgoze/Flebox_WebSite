@@ -5,7 +5,7 @@ Página de promocional de Alura realizada durante el curso:
 
 Para ver las propiedades Flex en acción da clic en el siguiente enlace:
 
-[página](https://github.com/axlgoze/Flebox_WebSite)
+[página](https://axlgoze.github.io/Flebox_WebSite/)
 
 Recursos web:
 - https://caniuse.com/  🌐
