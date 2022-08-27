@@ -113,12 +113,12 @@
     }
 
     .rodapePrincipal-patrocinadores-list li{
-        margin-right: 15px;
+        margin-right: 75px;
     }
 
-    .rodapePrincipal-contatoForm-fieldset{
-        justify-content: center;
-    }
+    /* .rodapePrincipal-contatoForm-fieldset */
+        /* justify-content: center; */
+    
 
     .rodapePrincipal-contatoForm-legend{
         text-align: center;
